@@ -1,0 +1,6 @@
+Title:   [u'Amazon.com: Mega Man 11 - Nintendo Switch: Capcom U S a Inc: Video Games']
+SKU:                           B07DDG73GD                        
+price:   [u'19']
+images:   [u'<img alt="Mega Man 11 - Nintendo Switch" src="https://images-na.ssl-images-amazon.com/images/I/51JSIZ7T5-L._SX215_.jpg" data-old-hires="https://images-na.ssl-images-amazon.com/images/I/81JkM94APBL._AC_SL1500_.jpg" onload="this.onload=\'\';setCSMReq(\'af\');if(typeof addlongPoleTag === \'function\'){ addlongPoleTag(\'af\',\'desktop-image-atf-marker\');};setCSMReq(\'cf\')" class="a-dynamic-image" id="landingImage" data-a-dynamic-image=\'{"https://images-na.ssl-images-amazon.com/images/I/81JkM94APBL._AC_SX215_.jpg":[241,215],"https://images-na.ssl-images-amazon.com/images/I/81JkM94APBL._AC_SX430_.jpg":[481,430]}\' style="max-width:none;max-height:none;">']
+description:   [u'Amazon.com: Mega Man 11 - Nintendo Switch: Capcom U S a Inc: Video Games']
+rating:   [u'4.3 out of 5 stars']
